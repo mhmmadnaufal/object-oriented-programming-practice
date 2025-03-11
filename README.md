@@ -1,5 +1,3 @@
-# object-oriented-programming-practice
-
 ## Repository Object Oriented Programming Practice
 
 <pre>
